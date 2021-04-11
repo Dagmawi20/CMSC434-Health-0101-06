@@ -15,4 +15,16 @@
     values-round/strings.xml for round devices.
     -->
     <string name="hello_world">Hello Square World!</string>
+
+    <string name="selected_item">Selected item:</string>
+    <string-array name="exercise_array">
+        <item>Running</item>
+        <item>Yoga</item>
+        <item>Weightlifting</item>
+        <item>Pilates</item>
+        <item>Biking</item>
+        <item>Dancing</item>
+        <item>Sports</item>
+        <item>Swimming</item>
+    </string-array>
 </resources>
